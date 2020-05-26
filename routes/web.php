@@ -27,3 +27,5 @@ Route::patch('/profile/{user}', 'ProfilesController@update');
 Route::get('/p/create', 'PostsController@create');
 Route::post('/p', 'PostsController@store');
 Route::get('/p/{post}', 'PostsController@show'); // can conflict with '/p/create' route, therefore, should be in the end
+
+Route::post('follow/{user}', 'FollowsController@store');
