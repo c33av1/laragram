@@ -21,6 +21,7 @@ App Features include:
 -   Show all posts on homepage and display pagination of posts
 -   Using markdown feature in laravel mail `php artisan make:mail <name> -m <storage path in view directory>`
     eg - `php artisan make:mail NewUserWelcomeMail -m emails.welcome-email`
+-   Sending Emails to New Registered Users
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
