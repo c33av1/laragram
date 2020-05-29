@@ -19,6 +19,8 @@ App Features include:
 -   Adding model policy for Profile to restrict access for owners only
 -   Laravel Telescope for tracking application
 -   Show all posts on homepage and display pagination of posts
+-   Using markdown feature in laravel mail `php artisan make:mail <name> -m <storage path in view directory>`
+    eg - `php artisan make:mail NewUserWelcomeMail -m emails.welcome-email`
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
