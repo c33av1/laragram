@@ -6,6 +6,7 @@ Intervention Image library is used to resize images.
 Profile Model Policy is used to restrict access for owners only
 View component named "Follow button" is used for follow/unfollow feature.
 Telescope is used to track all the activities in the application.
+Mail markdown templates are used for emails
 
 App Features include:
 
