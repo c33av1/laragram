@@ -1,3 +1,9 @@
+## Demo
+
+[![Demo](https://github.com/c33av1/laragram/blob/master/demo.gif?raw=true)]
+
+## About application
+
 This application is a practice app similar to Instagram.
 The app is built on Laravel 7.
 Bootstrap is used for client side scirpting.
